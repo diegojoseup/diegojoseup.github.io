@@ -4,36 +4,36 @@ module.exports = {
     'Diego Souza is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Diego Souza, Diego, Souza, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+  siteUrl: 'https://diegojoseup.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Diego Souza',
-  location: 'Indore, India',
+  location: 'Recife, Brazil',
   email: 'diego.joseupwork@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  github: 'https://github.com/diegojoseup',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/diegojoseup',
     },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
-    },
+    // {
+    //   name: 'Linkedin',
+    //   url: 'https://www.linkedin.com/in/yashitanamdeo/',
+    // },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/yashitanamdeo',
+    // },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/yashitanamdeo',
+    // },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/',
+    // },
   ],
 
   navLinks: [
