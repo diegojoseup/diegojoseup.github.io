@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/diegojoseup/diegojoseup.github.io/blob/source/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/diegojoseup/diegojoseup.github.io/blob/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio Website Version 1
@@ -7,11 +7,6 @@
 <p align="center">
   The first iteration of <a href="https://diegojoseup.github.io/" target="_blank">Diego Souza's</a> portfolio built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://pages.github.com/" target="_blank">Github Pages</a>
 </p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1" target="_blank">Version 1</a>
-</p>
-
 <div align="center">
   <img alt="Demo" src="https://i.ibb.co/jZgGcdL/Screenshot-3.png" />
 </div>
