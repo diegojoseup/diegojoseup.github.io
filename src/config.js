@@ -18,22 +18,6 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/diegojoseup',
     },
-    // {
-    //   name: 'Linkedin',
-    //   url: 'https://www.linkedin.com/in/yashitanamdeo/',
-    // },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/yashitanamdeo',
-    // },
-    // {
-    //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/yashitanamdeo',
-    // },
-    // {
-    //   name: 'Twitter',
-    //   url: 'https://twitter.com/',
-    // },
   ],
 
   navLinks: [
@@ -48,10 +32,6 @@ module.exports = {
     {
       name: 'Projects',
       url: '/#projects',
-    },
-    {
-      name: 'Contact',
-      url: '/#contact',
     },
   ],
 
