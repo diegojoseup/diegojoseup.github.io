@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Diego Souza',
   siteDescription:
-    'Diego Souza is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Diego Souza is an incoming Software Developer, based in Brazil, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Diego Souza, Diego, Souza, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
+    'Diego Souza, Diego, Souza, diegojoseup, software engineer, web developer, javascript, python, java',
   siteUrl: 'https://diegojoseup.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
