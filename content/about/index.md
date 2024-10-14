@@ -4,19 +4,17 @@ avatar: 'me.jpg'
 skills:
   - Coding
   - Reading
-  - Painting
-  - Crafting
   - Problem Solving
   - Team Management
   - Mentoring
 ---
 
-Hello! I'm Diego Souza, from Indore, also known as Mini Mumbai and the Cleanest City of India.
+Hello! I'm Diego Souza, from Recife, Brazil.
 
-I am a creative, time punctual, dedicated, goal-oriented individual with decent moral Values and Ethicates along with a high-energy level, honed communication skills, strong organizational skills, and meticulous attention to detail.
+I have been developing software for over 9 years and have extensive experience in ERP(Enterprise Resource Planning) solutions.
 
-I am pursuing my Bachelors from [SVVV, Indore](https://www.svvv.edu.in/) in Computer Science and Engineering (2018-2022) my current GPA is [3.7]() out of 4.
+Working in this field, I have had the opportunity to work on systems in various business area, such as Financial(Accounts Payable And Accounts Receivable), Tax(NF-e, MDF-e, NFS-e, NFC-e and SPED), Store Front(PDV, SAT and MF-e), Fitness, LMS and Logistics(Inventory).
 
-I am a member of [Developer Student Club - SVVV](https://dsc.community.dev/shri-vaishnav-vidyapeeth-vishwavidyalaya/) and have also been awarded 75% Merit Scholarship(Top 10%) by my college.
+Throughout my career, I have worked with different types of programming languages, such as COBOL, C#, Javascript, Python, and I am always open to learning new technologies.
 
 Here are a few of the other activities that I love to do!
